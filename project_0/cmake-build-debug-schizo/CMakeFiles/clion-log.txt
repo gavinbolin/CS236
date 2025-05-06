@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /users/guest/g/gbolin/cs236/Deploy
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /users/guest/g/gbolin/cs236/Deploy/cmake-build-debug-schizo
